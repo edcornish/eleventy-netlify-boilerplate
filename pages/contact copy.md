@@ -6,12 +6,8 @@ section: contact
 date: 2018-01-01
 permalink: /contact/index.html
 eleventyNavigation:
-  key: Contact
-<<<<<<< HEAD
-  order: 0
-=======
-  order: 3
->>>>>>> parent of b3445d8... Updates
+  key: Contact 2
+  order: 6
 ---
 The contact form on this page uses [Netlify Forms](https://www.netlify.com/docs/form-handling/) to process submissions,
 and saves them in the connected Netlify account where notifications can
